@@ -1,6 +1,8 @@
 Glip Poster
 ===========
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2e50acdacece4f28bb239bd87a8ca6fd)](https://www.codacy.com/app/grokify/glip-poster-ruby?utm_source=github.com&utm_medium=referral&utm_content=grokify/glip-poster-ruby&utm_campaign=badger)
+
 [![Gem Version][gem-version-svg]][gem-version-link]
 [![Build Status][build-status-svg]][build-status-link]
 [![Coverage Status][coverage-status-svg]][coverage-status-link]
